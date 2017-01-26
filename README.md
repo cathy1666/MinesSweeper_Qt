@@ -4,7 +4,7 @@ Mines Sweeper
 使用Qt跨平台開發的踩地雷小遊戲，實作於附觸控面板的Andes開發板
 
 ### Qt
-[Qt](https://zh.wikipedia.org/wiki/Qt) 是一個跨平台的C++應用程式開發框架。廣泛用於開發GUI程式，這種情況下又被稱為部件工具箱。
+[Qt](https://zh.wikipedia.org/wiki/Qt) 是一個跨平台的C++應用程式開發框架，廣泛用於開發GUI程式。
 
 ### 遊戲描述
 - 在地雷區內，隨機散佈炸彈。
